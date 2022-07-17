@@ -1,0 +1,15 @@
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\bin\Debug\net6.0\6_1_demo.exe
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\bin\Debug\net6.0\6_1_demo.deps.json
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\bin\Debug\net6.0\6_1_demo.runtimeconfig.json
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\bin\Debug\net6.0\6_1_demo.dll
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\bin\Debug\net6.0\6_1_demo.pdb
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\6_1_demo.csproj.AssemblyReference.cache
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\6_1_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\6_1_demo.AssemblyInfoInputs.cache
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\6_1_demo.AssemblyInfo.cs
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\6_1_demo.csproj.CoreCompileInputs.cache
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\6_1_demo.dll
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\refint\6_1_demo.dll
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\6_1_demo.pdb
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\6_1_demo.genruntimeconfig.cache
+C:\Users\White Fox\C_sharp_course2-1\6_Lesson\6_1_demo\obj\Debug\net6.0\ref\6_1_demo.dll
