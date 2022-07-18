@@ -1,0 +1,5 @@
+C:\Users\White Fox\C_sharp_course2-1\7_Lesson\HW_7_3\obj\Debug\net6.0\HW_7_3.csproj.AssemblyReference.cache
+C:\Users\White Fox\C_sharp_course2-1\7_Lesson\HW_7_3\obj\Debug\net6.0\HW_7_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\White Fox\C_sharp_course2-1\7_Lesson\HW_7_3\obj\Debug\net6.0\HW_7_3.AssemblyInfoInputs.cache
+C:\Users\White Fox\C_sharp_course2-1\7_Lesson\HW_7_3\obj\Debug\net6.0\HW_7_3.AssemblyInfo.cs
+C:\Users\White Fox\C_sharp_course2-1\7_Lesson\HW_7_3\obj\Debug\net6.0\HW_7_3.csproj.CoreCompileInputs.cache
