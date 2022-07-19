@@ -1,11 +1,4 @@
-﻿Console.Clear();
-Console.WriteLine($"Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.");
-Console.WriteLine($"\nВведите размер массива m x n и диапазон случайных значений:");
-int m = InputNumbers("Введите m: ");
-int n = InputNumbers("Введите n: ");
-int range = InputNumbers("Введите диапазон: от 1 до ");
-
-int[,] array = new int[m, n];
+﻿int[,] array = new int[m, n];
 CreateArray(array);
 WriteArray(array);
 
@@ -61,3 +54,9 @@ void WriteArray(int[,] array)
     Console.WriteLine();
   }
 }
+Console.Clear();
+Console.WriteLine($"Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.");
+Console.WriteLine($"\nВведите размер массива m x n и диапазон случайных значений:");
+int m = InputNumbers("Введите m: ");
+int n = InputNumbers("Введите n: ");
+int range = InputNumbers("Введите диапазон: от 1 до ");
