@@ -1,4 +1,9 @@
-﻿// Задайте прямоугольный двумерный массив. Напишите программу, которая будет находить строку с наименьшей суммой элементов.
+﻿Console.Clear();
+Console.WriteLine();
+Console.WriteLine();
+int m = InputNumbers("Введите m: ");
+int n = InputNumbers("Введите n: ");
+int range = InputNumbers("Введите диапазон: от 1 до ");
 
 int[,] array = new int[m, n];
 CreateArray(array);
@@ -59,9 +64,4 @@ void WriteArray (int[,] array)
   }
 }
 
-Console.Clear();
-Console.WriteLine();
-Console.WriteLine();
-int m = InputNumbers("Введите m: ");
-int n = InputNumbers("Введите n: ");
-int range = InputNumbers("Введите диапазон: от 1 до ");
+
