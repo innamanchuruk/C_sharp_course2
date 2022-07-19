@@ -1,4 +1,12 @@
-﻿int[,] firstMartrix = new int[m, n];
+﻿Console.Clear();
+Console.WriteLine();
+Console.WriteLine();
+int m = InputNumbers("Введите число строк 1-й матрицы: ");
+int n = InputNumbers("Введите число столбцов 1-й матрицы (и строк 2-й): ");
+int p = InputNumbers("Введите число столбцов 2-й матрицы: ");
+int range = InputNumbers("Введите диапазон случайных чисел: от 1 до ");
+
+int[,] firstMartrix = new int[m, n];
 CreateArray(firstMartrix);
 Console.WriteLine($"\nПервая матрица:");
 WriteArray(firstMartrix);
@@ -54,16 +62,9 @@ void WriteArray (int[,] array)
   {
     for (int j = 0; j < array.GetLength(1); j++)
     {
-      Console.Write(array[i,j] + "100");
+      Console.Write(array[i,j] + " ");
     }
     Console.WriteLine();
   }
 }
 
-Console.Clear();
-Console.WriteLine();
-Console.WriteLine();
-int m = InputNumbers("Введите число строк 1-й матрицы: ");
-int n = InputNumbers("Введите число столбцов 1-й матрицы (и строк 2-й): ");
-int p = InputNumbers("Введите число столбцов 2-й матрицы: ");
-int range = InputNumbers("Введите диапазон случайных чисел: от 1 до ");
